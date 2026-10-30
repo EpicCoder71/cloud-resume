@@ -46,3 +46,5 @@ a:focus-visible,button:focus-visible{outline:2px solid #b6daff;outline-offset:5p
 
 /* Keyless project completion */
 .project-progress{margin:24px 0;color:#a8b9cc}.project-progress label{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;font-size:.85rem;margin-bottom:10px}.project-progress strong{color:#94e8c4}.project-progress progress{display:block;width:100%;height:12px;accent-color:#66dab8}.project-progress p{font-size:.78rem;margin-top:10px;margin-bottom:0}
+
+.logo{display:inline-flex;align-items:center;flex-shrink:0}.logo img{display:block;width:66px;height:53px}.footer .logo img{width:60px;height:48px}
